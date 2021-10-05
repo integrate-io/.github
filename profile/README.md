@@ -1,12 +1,5 @@
-## Hi there 👋
+# integrate.io
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/72073401/136081559-35426b5c-6579-40ed-ac99-f064cfc47abd.png" alt="integrate.io logo"/>
+</p>
