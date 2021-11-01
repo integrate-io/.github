@@ -12,6 +12,9 @@ The above server contains code for the following features:
 
 Backend Server For Github-Notion Sync: [backend-github-Notion](https://github.com/integrateme-co/github-notion-sync)
 
+The above server contains code for the following features:
+* Syncing Github Issues With Notion
+
 ## Future Plans
 
 - [ ] Google Classroom And Todoist, Notion
