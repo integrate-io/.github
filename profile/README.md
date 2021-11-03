@@ -4,16 +4,18 @@
   <img src="https://user-images.githubusercontent.com/72073401/138743917-e43c23e3-e9f4-4550-a578-5b5ee858a499.png"/>
 </p>
 
-Backend Server For Cross-Posting: [backend-crosspost](https://github.com/integrate-io/integrate-io)
+🎯 Backend Server For Cross-Posting: [backend-crosspost](https://github.com/integrate-io/integrate-io)
 
-The above server contains code for the following features:
+  The above server contains code for the following features:
 * Scheduling post for [Dev.to](https://dev.to/)
 * Cross-Posting between [Dev.to](https://dev.to/), [Medium](https://medium.com/) and [Hashnode](https://hashnode.com/)
 
-Backend Server For Github-Notion Sync: [backend-github-Notion](https://github.com/integrateme-co/github-notion-sync)
+🎯 Backend Server For Github-Notion Sync: [backend-github-Notion](https://github.com/integrateme-co/github-notion-sync)
 
-The above server contains code for the following features:
+  The above server contains code for the following features:
 * Syncing Github Issues With Notion
+
+🎯 Frontend: [frontend](https://github.com/integrateme-co/frontend) 
 
 ## Future Plans
 
