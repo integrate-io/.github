@@ -23,7 +23,7 @@
     
     This can automatically adds a task in Todoist or Notion as soon as an assignment is assigned in google classroom
     
-- [ ] Notion and Github
+- [X] Notion and Github
     
     This integration syncs pull requests and issue for a particular repository on a notion kanban board
     
