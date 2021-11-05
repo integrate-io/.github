@@ -47,7 +47,7 @@
 Help us pay off our Hosting and Cloud Services
 
 
-![BMC](https://raw.githubusercontent.com/integrateme-co/branding/master/snapshot-bmc-button.png?token=ARF4BOPR4GOMMXZVDURQVXTBQUZYU)
+![BMC](https://raw.githubusercontent.com/integrateme-co/branding/master/snapshot-bmc-button.png?token=ARF4BOMCNTRROUKKQSP7RELBQU54S)
 
 ## Contributing
 We rely on open-source community for betterment of product and are always open to new contributions, there are plenty of issues to be resolved in our backend server, take a look at them from [here](https://github.com/integrate-io/integrate-io/issues)
