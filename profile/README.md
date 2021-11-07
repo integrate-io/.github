@@ -44,10 +44,14 @@
     Send Marketing and Campaign emails using notion, using mailchimp API
     
 ## Donating
-Help us pay off our Hosting and Cloud Services
+  
+  
+Help Us Pay off Our Domain and Hosting Charges<br>
 
+
+<a href="https://www.buymeacoffee.com/integrateme">
 <img width="208" alt="snapshot-bmc-button" src="https://user-images.githubusercontent.com/72073401/140631132-f03daad8-c1e8-45ed-970b-94f204d5bba4.png">
-
+</a>
 
 ## Contributing
 We rely on open-source community for betterment of product and are always open to new contributions, there are plenty of issues to be resolved in our backend server, take a look at them from [here](https://github.com/integrate-io/integrate-io/issues)
